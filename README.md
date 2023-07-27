@@ -1,5 +1,13 @@
 
 # react vite 
+
+for setup : download this code on your local machine 
+and run command "npm install" for client and server side 
+client side- npm run dev
+server side- node server.js
+
+mongoDB URI is given in the dbconnect.js file 
+
 # tech_stack used:
 
 REACTJS
